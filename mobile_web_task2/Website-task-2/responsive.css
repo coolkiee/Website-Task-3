@@ -1,0 +1,28 @@
+@media screen and (max-width: 900px){
+    .mobilelinkdisplay{
+        display: none ;
+
+    }
+    .mobileLink{
+        display: flex;
+        flex-direction: column;
+    }
+    .banner{
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .mobileIcon{
+    display: block;
+    }
+    .headerimg{
+        display: none;
+    }
+    .efso_Resim{
+        width: 45%;
+        margin-bottom: 30px;
+    }
+    .imgmaindiv{
+        flex-direction: row;
+    }
+}
